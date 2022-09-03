@@ -11,13 +11,23 @@
         },
 
         {
-            "id": 1,
+            "id": 2,
             "nama": "Bibit Mentimun",
             "satuan": "Bungkus",
             "harga": 12000,
             "gambar": "bibit-mentimun.jpg",
             "deskripsi": "",
             "kategori_id": 1
+        },
+
+        {
+            "id": 3,
+            "nama": "Alat Semprot SOLO",
+            "satuan": "Unit",
+            "harga": 240000,
+            "gambar": "",
+            "deskripsi": "Kapasitas 20 Liter",
+            "kategori_id": 4
         }
     ]
 }
