@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama": "Bibit Tanaman",
+            "gambar": "bibit-tanaman.jpg"
+        },
+        
+        {
+            "id": 2,
+            "nama": "Pupuk",
+            "gambar": "pupuk.jpg"
+        },
+        
+        {
+            "id": 3,
+            "nama": "Obat",
+            "gambar": "obat.jpg"
+        },
+        
+        {
+            "id": 4,
+            "nama": "Peralatan",
+            "gambar": "peralatan.jpg"
+        }
+    ]
+}

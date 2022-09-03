@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama": "Bibit Semangka Merah Jumbo",
+            "satuan": "Bungkus",
+            "harga": 20000,
+            "gambar": "bibit-semangka-merah-jumbo.jpeg",
+            "deskripsi": "",
+            "kategori_id": 1
+        },
+
+        {
+            "id": 1,
+            "nama": "Bibit Mentimun",
+            "satuan": "Bungkus",
+            "harga": 12000,
+            "gambar": "bibit-mentimun.jpg",
+            "deskripsi": "",
+            "kategori_id": 1
+        }
+    ]
+}
