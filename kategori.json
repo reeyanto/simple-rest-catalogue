@@ -3,25 +3,25 @@
         {
             "id": 1,
             "nama": "Bibit Tanaman",
-            "gambar": "bibit-tanaman.jpg"
+            "gambar": "bibit-tanaman.png"
         },
         
         {
             "id": 2,
             "nama": "Pupuk",
-            "gambar": "pupuk.jpg"
+            "gambar": "pupuk.png"
         },
         
         {
             "id": 3,
             "nama": "Obat",
-            "gambar": "obat.jpg"
+            "gambar": "obat.png"
         },
         
         {
             "id": 4,
             "nama": "Peralatan",
-            "gambar": "peralatan.jpg"
+            "gambar": "peralatan.png"
         }
     ]
 }
